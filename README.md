@@ -18,7 +18,7 @@
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=reth09&limit=5&theme=nord&combine_all_yearly_contributions=true)
 
-### 😂 Random Dev Meme
+### Laughing is good for health & it's FREE !
 <img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
 
 ---
